@@ -1,0 +1,12 @@
+
+############################################################################## 
+Game::3D::Model::MD2
+
+* Currently load/render code and storage is in Perl. Rewrite in XS for more
+  speed and a bit less memory-hunger
+* add keyframe animation (e.g. interpolation between frames)
+
+Please send me test-reports, your experiences with this and your ideas - I love
+to hear about my work!
+
+Tels <http://bloodgate.com/>

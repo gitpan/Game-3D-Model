@@ -1,0 +1,39 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.21.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+SHA1 e464e54167a9f9e05e2373d17e88f947c2487279 BUGS
+SHA1 abf382dc1f161cfe2ffe60ebf94618851f7844e4 CHANGES
+SHA1 48cf9491cd6c60b7dd94854c03a97b96f761665c CREDITS
+SHA1 d6a6c30ee6d9ba6b9afab8bbf6a25e1b23c744e0 LICENSE
+SHA1 fe3a4ff2616195b065c7488cd219a1075f0a8863 MANIFEST
+SHA1 5c9beb100ed4d64ac7eb8f20e75c9e8e0eefdc0e Makefile.PL
+SHA1 e8a43ad16514ed4f68618b8d46d302a47cd648f2 README
+SHA1 5cd3268f44bf461799198554190940d26088edfd TODO
+SHA1 972e8ca154e099aee3c46ee5644646f0ac119a1e lib/Game/3D/Model.pm
+SHA1 846909aee8b35bcc8910ac64b1ce8af7f1ee279e lib/Game/3D/Model/MD2.pm
+SHA1 140b3d4bac0a4867d12f10611c4a98b70fe1efc0 t/md2.t
+SHA1 3b674ea56407ed6d0b4fa9aba153570fe4d9fe5a t/model.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl.
+
+iQEVAwUBPmujVXcLPEOTuEwVAQGcZQf+IuNf38qL67npaxv1pon8OBPGWC1g7MF9
+1oODaDmCmZXc1gOqpWFrPS9ps1gRK48O+xgMtJq7+pXmIY5DnZVUhTCKQXGUdnpW
+4FrZlgFO2OXVD8KP92pm8eX+J9+UXcdZ4nM3CRK+1rlRL6ACR7aBhExSNba1/xmQ
+ckrSC22pHcd94+QqAW44Ym9Vyz8YkL/TA7ndrMDGe40lmvBokGr78v5aZgTnlBfK
+Sl2izVHWtoBfuvrg+YzTp/9E7Tr9zeBumtcPE+JujAO71Z8qLBSM3fqReZRUJKMQ
+0zuB3uCchxjhgBaIc/NLlabmJrce/hIQKAh9b6K8TNgCbU+mppZSYg==
+=7r9A
+-----END PGP SIGNATURE-----
